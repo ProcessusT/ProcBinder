@@ -12,6 +12,7 @@ Le code est à portée éducative uniquement.
 Le client a été développé sous Visual Studio et nécessite l'ajout de la librairie Winsock :
 
 Dans Visual Studio, clic droit sur le projet -> Propriétés -> Propriétés de configuration -> Editeur de liens -> entrée -> Dépendances supplémentaires
+
 Ajouter cette ligne :
 ws2_32.lib
 
