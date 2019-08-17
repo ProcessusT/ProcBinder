@@ -7,6 +7,8 @@ J'ai commencé ce projet pour approfondir mes (très faibles) bases en C, soyez 
 Le code est à portée éducative uniquement.
 
 
+
+
 Le client a été développé sous Visual Studio et nécessite l'ajout de la librairie Winsock :
 
 Dans Visual Studio, clic droit sur le projet -> Propriétés -> Propriétés de configuration -> Editeur de liens -> entrée -> Dépendances supplémentaires
@@ -14,5 +16,8 @@ Ajouter cette ligne :
 ws2_32.lib
 
 
+
+
 Basé sur les travaux d'OpenClassroom sur les sockets :
+
 http://sdz.tdct.org/sdz/les-sockets.html#Partie1L039applicationserveur
