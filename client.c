@@ -8,7 +8,7 @@ typedef int socklen_t;
 
 // Informations du serveur
 #define PORT 666
-#define SERVER "185.13.37.138"
+#define SERVER "8.8.8.8"
 
 
 
